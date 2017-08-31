@@ -1,0 +1,64 @@
+type	category	data1	data2	data3	description	@icon
+angle	Research	Transport	Health	Health	Research about the impact of Brump Cable Car use on Sheridan's asthma sufferers.	Tool_Recipes_rgb-56.eps
+angle	Research	Product	Product	Geography	A study of the impact of Schumpeter Shopping Mall on Sheridan's local growers and retailers.	Tool_Recipes_rgb-57.eps
+angle	Device	Product	Weather	Weather	A display that indicates when bad weather will affect the price of asparagus products in Sheridan's shops.	Tool_Recipes_rgb-59.eps
+angle	Website	Weather	Product	Democracy	A website to explore spending and performance of Sheridan flood defences against extreme weather.	Tool_Recipes_rgb-55.eps
+angle	Mobile app	Health	Product	Weather	An application that alerts people to stock up on masks when there's high levels of pollution around Peter's Pond.	Tool_Recipes_rgb-58.eps
+angle	Mobile app	Product	Geography	Transport	A journey planner that helps you pick up asparagus-related items on your way home based on where they are cheapest.	Tool_Recipes_rgb-52.eps
+angle	Service	Democracy	Democracy	Health	A service that alerts residents when budgets for health services get cut.	Tool_Recipes_rgb-62.eps
+angle	Research	Product	Health	Democracy	An analysis of gym membership use among Brump staff.	Tool_Recipes_rgb-54.eps
+angle	Website	Transport	Weather	Transport	A website that displays likely transport delays based on the weather forecast.	Tool_Recipes_rgb-51.eps
+angle	Website	Health	Democracy	Health	A website showing how Sheridan General Hospital and local nursing homes are funded.	Tool_Recipes_rgb-60.eps
+angle	Device	Weather	Health	Democracy	A t-shirt displaying Brump government spending on combatting Sheridan air pollution.	Tool_Recipes_rgb-61.eps
+angle	Website	Geography	Geography	Transport	An online Sheridan to Colville route planner.	Tool_Recipes_rgb-53.eps
+cluster	Service	Health	Product	Product	A service that delivers customised shopping for Sheridan's elderly, based on their health conditions.	Tool_Recipes_rgb-45.eps
+cluster	Device	Health	Health	Product	A smart mask for monitoring air pollution from developments around Peter's Pond.	Tool_Recipes_rgb-46.eps
+cluster	Service	Geography	Democracy	Product	A service that alerts Sheridan residents when land development applications have been made in their area.	Tool_Recipes_rgb-48.eps
+cluster	Research	Democracy	Geography	Geography	A study on the location and value of Mayor Brump's property investments around Sheridan.	Tool_Recipes_rgb-50.eps
+cluster	Device	Democracy	Democracy	Transport	A motion sensor that tells Mayor Brump how many people are riding Brump Cable Car at any time.	democ_democ_trans.eps
+cluster	Mobile app	Product	Transport	Health	An app that you can use while buying cars to see fatalities & injuries for each make & model.	Tool_Recipes_rgb-40.eps
+cluster	Service	Weather	Transport	Weather	A service providing transport options for Hedgefest attendees in the event of bad weather.	Tool_Recipes_rgb-43.eps
+cluster	Website	Democracy	Transport	Transport	A website that shows Sheridan spending on the Brump Cable Car, bus network and train services.	Tool_Recipes_rgb-41.eps
+cluster	Mobile app	Health	Geography	Transport	An emergency app showing the quickest route to neighbouring Colville's A&E.	Tool_Recipes_rgb-42.eps
+cluster	Device	Health	Weather	Health	A device for people with asthma that vibrates whenever pollen counts from Wells Woods are high.	Tool_Recipes_rgb-49.eps
+cluster	Device	Geography	Transport	Weather	A light that turns on when flooding is expected that might affect your Sheridan transport options.	Tool_Recipes_rgb-44.eps
+cluster	Mobile app	Health	Geography	Product	An app that helps you find the nearest open pharmacist.	Tool_Recipes_rgb-47.eps
+pair	Website	Weather	Product		A shopping site showing predicted asparagus product availability in Sheridan based on local weather.	Tool_Recipes_rgb-29.eps
+pair	Mobile app	Geography	Democracy		An app showing where Sheridan's mobile voting caravan is currently stationed.	Tool_Recipes_rgb-36.eps
+pair	Device	Transport	Geography		A GPS tracker telling you how far you are from the Brump Cable Car at any time.	Tool_Recipes_rgb-27.eps
+pair	Service	Transport	Health		A service that prioritises Sheridan's ambulances based on whether the patient is over 65.	Tool_Recipes_rgb-22.eps
+pair	Website	Product	Product		A website allowing you to compare the cost of asparagus between Dodds Cooperative and Schumpeter Shopping Mall.	Tool_Recipes_rgb-24.eps
+pair	Website	Transport	Transport		A website enabling you to get Sheridan bus and Brump Cable Car timetables.	Tool_Recipes_rgb-20.eps
+pair	Device	Weather	Geography		A rock-salt bin that unlocks whenever snowfall is predicted in its vicinity.	Tool_Recipes_rgb-39.eps
+pair	Service	Product	Transport		A service that provides Sheridan asparagus snack boxes to bus and Brump Cable Car commuters.	Tool_Recipes_rgb-21.eps
+pair	Website	Health	Health		A website about the effects of contaminated bathing water and recommended treatments.	Tool_Recipes_rgb-34.eps
+pair	Mobile app	Weather	Weather		An app that tells you how to identify cloud formations.	Tool_Recipes_rgb-37.eps
+pair	Website	Transport	Weather		A website showing weather-related Brump Cable Car delays.	Tool_Recipes_rgb-23.eps
+pair	Mobile app	Product	Democracy		A Twitter account that tweets Mayor Brump's expense claims.	Tool_Recipes_rgb-25.eps
+pair	Device	Geography	Geography		A wearable that vibrates when you are close to a protected hedgehog superhighway.	Tool_Recipes_rgb-38.eps
+pair	Research	Democracy	Health		A study on the impact of Brump council cuts on waiting times at Sheridan General Hospital.	Tool_Recipes_rgb-31.eps
+pair	Device	Product	Geography		A device that vibrates when you're near a shop in Sheridan that sells asparagus products.	Tool_Recipes_rgb-30.eps
+pair	Research	Weather	Democracy		A study of the impact of air pollution on voter behaviour.	Tool_Recipes_rgb-33.eps
+pair	Service	Democracy	Democracy		A service that provides real-time alerts of counts during elections.	Tool_Recipes_rgb-35.eps
+pair	Mobile app	Geography	Health		A map of nursing homes in Sheridan.	Tool_Recipes_rgb-32.eps
+pair	Service	Product	Health		A service reminding people when they need to collect asthma prescriptions.	Tool_Recipes_rgb-28.eps
+pair	Research	Transport	Democracy		A study on the number of times Mayor Brump has taken the Brump Cable Car.	Tool_Recipes_rgb-26.eps
+pair	Research	Weather	Health		An analysis of the effects of snowfall on health.	weather_health.eps
+singleton	Research	Transport			A study of the impact of reduced train services into Sheridan on Hedgefest visitor numbers.	Tool_Recipes_rgb-19.eps
+singleton	Service	Weather			A subscription service that tells you when it's likely to snow.	Tool_Recipes_rgb-18.eps
+singleton	Research	Democracy			A study on the demography of Sheridan voters.	Tool_Recipes_rgb-16.eps
+singleton	Mobile app	Geography			A map of hiking trails in Well's Woods.	Tool_Recipes_rgb-17.eps
+singleton	Website	Health			A website providing information about asthma treatments.	Tool_Recipes_rgb-15.eps
+singleton	Device	Product			A barcode scanner providing information about the source of asparagus.	Tool_Recipes_rgb-14.eps
+straight	Website	Health	Transport	Democracy	A website to explore the link between budget for and performance of Sheridan's ambulance services.	Tool_Recipes_rgb-63.eps
+straight	Mobile app	Democracy	Health	Geography	A mobile map of Sheridan's public clinics for people over 65.	Tool_Recipes_rgb-73.eps
+straight	Research	Product	Democracy	Democracy	A study on Mayor Brump's expenses during his time in office.	Tool_Recipes_rgb-72.eps
+straight	Device	Democracy	Product	Product	A device that displays recent purchases by Mayor Brump and who they were purchased from.	Tool_Recipes_rgb-67.eps
+straight	Service	Democracy	Transport	Weather	A service providing free transport for elderly residents if the weather is bad on polling day.	Tool_Recipes_rgb-66.eps
+straight	Service	Transport	Democracy	Geography	A service that alerts elderly voters when the Sheridan voting caravan is close by on polling day.	Tool_Recipes_rgb-64.eps
+straight	Research	Health	Geography	Health	An analysis of the instances and strength of odours from Peter's Pond.	Tool_Recipes_rgb-69.eps
+straight	Service	Geography	Geography	Health	A planning service helping people choose homes and schools based on local air pollution levels.	Tool_Recipes_rgb-70.eps
+straight	Research	Geography	Weather	Geography	An analysis of the movements of hedgehogs around Sheridan during extreme weather.	Tool_Recipes_rgb-71.eps
+straight	Website	Product	Transport	Product	A website letting you select groceries and delivery options based on their carbon footprint.	Tool_Recipes_rgb-65.eps
+straight	Mobile app	Weather	Geography	Weather	An app showing the location of hedgehogs in your area and likely migration as winter approaches.	Tool_Recipes_rgb-74.eps
+straight	Mobile app	Product	Weather	Product	An app that uses information from weather sensors to provide more accurate asparagus market predictions.	Tool_Recipes_rgb-68.eps
